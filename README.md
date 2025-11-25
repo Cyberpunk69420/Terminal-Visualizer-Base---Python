@@ -37,7 +37,7 @@ pip install colorama
 
 Run the visualizer:
 ```bash
-python ascii_visualizer.py
+pytermviz.py
 ```
 
 Press `Ctrl+C` to exit the visualizer.
